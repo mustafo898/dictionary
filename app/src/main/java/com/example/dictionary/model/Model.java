@@ -1,4 +1,4 @@
-package com.example.dictionary.Model;
+package com.example.dictionary.model;
 
 public class Model {
     int id;

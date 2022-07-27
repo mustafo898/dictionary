@@ -8,7 +8,7 @@ import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
-import com.example.dictionary.Model.Model;
+import com.example.dictionary.model.Model;
 import com.example.dictionary.libs.DataBaseHelper;
 //import com.example.phone_db.libs.DataBaseHelper;
 //import com.example.phone_db.model.Group;

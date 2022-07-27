@@ -3,7 +3,7 @@ package com.example.dictionary
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.dictionary.Model.Model
+import com.example.dictionary.model.Model
 import com.example.dictionary.adapter.WordAdapter
 import com.example.dictionary.database.Database
 import com.example.dictionary.databinding.ActivityMainBinding

@@ -1,13 +1,10 @@
 package com.example.dictionary.adapter
 
 import android.view.LayoutInflater
-import android.view.View
 import android.view.ViewGroup
-import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.dictionary.Model.Model
+import com.example.dictionary.model.Model
 import com.example.dictionary.R
-import com.example.dictionary.database.Database
 import com.example.dictionary.databinding.ItemWordsBinding
 
 class WordAdapter : RecyclerView.Adapter<WordAdapter.ViewHolder>() {
